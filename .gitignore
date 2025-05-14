@@ -146,6 +146,9 @@ venv.bak/
 # mkdocs documentation
 /site
 
+# Ignore all contents of the data folder
+data/
+
 # mypy
 .mypy_cache/
 .dmypy.json
